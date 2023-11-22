@@ -1,4 +1,4 @@
-# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
+![Screenshot 2023-11-22 223251](https://github.com/easwari21/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/131534979/764e7062-16d1-4616-a8c3-17de2083f53a)# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
 ### DATE: 
 ## AIM:
@@ -29,10 +29,14 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
-## Output:
 
-### Name:
-### Register Number:
+## Output:
+![Screenshot 2023-11-22 223251](https://github.com/easwari21/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/131534979/f8a199b1-a751-4220-bbe8-916f8cbe813f)
+
+
+
+### Name:Easwari M
+### Register Number:23006280
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
